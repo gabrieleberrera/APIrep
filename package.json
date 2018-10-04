@@ -1,0 +1,24 @@
+{
+  "name": "apirep",
+  "version": "1.0.0",
+  "description": "Lezione API",
+  "main": "index.js",
+  "scripts": {
+  "start":"node api.js",  
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieleberrera/APIrep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrieleberrera/APIrep/issues"
+  },
+  "homepage": "https://github.com/gabrieleberrera/APIrep#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
